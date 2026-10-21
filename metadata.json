@@ -1,0 +1,6 @@
+{
+  "name": "BookFlow - Business Operations & Retention Platform",
+  "description": "Intelligent appointment booking, no-show reduction, automated waitlist recovery, and client retention platform for salons, barbershops, and wellness studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
